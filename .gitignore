@@ -1,0 +1,7 @@
+.venv
+
+student_faces/*
+!student_faces/Regno_Dept_ Name/
+
+attendance_reports/*
+!attendance_reports
