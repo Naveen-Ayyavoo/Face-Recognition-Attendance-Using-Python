@@ -340,7 +340,7 @@ def start_attendance_system(session_name):
     display_thread.start()
     
     # Schedule system to stop after 10 minutes
-    tm.sleep(60)  # Run for 10 minutes
+    tm.sleep(600)  # Run for 10 minutes
     stop_attendance_system(students, session_name)
 
 # Stop the attendance system
