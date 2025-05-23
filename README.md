@@ -317,7 +317,6 @@ git push origin feature/AmazingFeature
 
 6. 📣 Open a pull request 
 <br>
----
 
 ### Development Roadmap
 
@@ -333,7 +332,6 @@ git push origin feature/AmazingFeature
 
 - ☁️ Cloud storage integration
 <br>
----
 
 <div align="center" style="font-size: 1.5rem;">
 
