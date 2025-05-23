@@ -57,6 +57,7 @@ def read_current_attendance():
 
     wb = openpyxl.load_workbook(xlsx_filename)
     ws = wb.active
+
     rows = list(ws.iter_rows(values_only=True))
     if not rows or len(rows) < 2:
         return attendance_data
