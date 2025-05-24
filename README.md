@@ -284,6 +284,13 @@ config = Configuration(wkhtmltopdf="/path/to/wkhtmltopdf")
 - **CPU:** Multi-core processor recommended
 - **Webcam:** 720p or higher resolution
 
+## 🪪 License
+
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+It is free to use for **educational and personal purposes**.  
+**Commercial use is strictly prohibited** without written permission.
+
+
 ## 🤝 Contributing
 
 <div align="center" style="font-size: 1.5rem;">
