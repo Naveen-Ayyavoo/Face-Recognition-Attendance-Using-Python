@@ -150,7 +150,8 @@ Transform your attendance management with cutting-edge facial recognition techno
 
 ```bash
 # 1. Clone or download the project
-git clone <repository_url>
+git clone https://github.com/Naveen-Ayyavoo/Face-Recognition-Attendance-Using-Python.git
+
 cd face_recognition
 
 # 2. Create virtual environment (recommended)
